@@ -23,7 +23,6 @@
 		"@types/yamljs": "^0.2.30",
 		"debug": "^3.1.0",
 		"del": "^3.0.0",
-		"discord.js-typings": "github:discordjs/discord.js-typings",
 		"gulp": "^3.9.1",
 		"gulp-nodemon": "^2.2.1",
 		"gulp-sourcemaps": "^2.6.4",
