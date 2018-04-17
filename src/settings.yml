@@ -1,0 +1,5 @@
+settings:
+  token: 'BOT_TOKEN'
+  prefix: '!'
+  nameBot: 'DiscordTS'
+  activity: '> Use !ping'
