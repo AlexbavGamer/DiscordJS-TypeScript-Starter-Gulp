@@ -30,7 +30,7 @@
 
 // BUILD
 // ----------------------------------------------------------------------------
-	gulp.task('build', [], () => {
+	gulp.task('build', [lint], () => {
 		// => Delete old files
 			del.sync(['./build/**/*.*'])
 		// => Copy files
