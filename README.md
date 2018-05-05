@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-    DiscordJS TypeScript Starter
+    DiscordJS TypeScript Starter with Gulp
 </h1>
 
 Create your own bot using [TypeScript](https://www.typescriptlang.org/) and [Discord.JS](https://discord.js.org/#/).
